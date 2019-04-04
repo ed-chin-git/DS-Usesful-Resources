@@ -1,13 +1,19 @@
 ### Week 1.1: 
 
 1. What data would you love to acquire if there were no limitations?
+              
+
 2. What would you do with that data (projects, startups, apps)?
+
 3. Bring something for “Show and Tell” (screenshare) that got you interested in this data or shows why it is interesting to you.
+
 
 ### Week 1.2:
 
 1. Why are you at Lambda School?
+        I am attending Lambda School to upgrade my technical skills and move into the field of Data Science.
 2. What did you do before Lambda School?
+      I am 
 3. What is something interesting about you?
 
 ### Week 2:
